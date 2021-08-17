@@ -64,11 +64,11 @@ For all CSV files, the time is given as a Unix timestamp (in nanoseconds), posit
 
 ## Technical description 
 
-Technical description of the work, both on the implemented functionalities and the code.
+~~Technical description of the work~~
 
 ## Performance analysis
 
-Performance analysis of the algorithm: you can include some pictures, graphs, or metrics for example.
+~~Performance analysis of the algorithm~~
 
 ## Work description
 
