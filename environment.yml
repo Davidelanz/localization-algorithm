@@ -1,0 +1,14 @@
+name: localization-algorithm
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - filterpy
+  - sympy
