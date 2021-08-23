@@ -7,8 +7,9 @@ dependencies:
   - pip
   - ipython
   - jupyterlab
-  - matplotlib
+  - ipywidgets
   - numpy
   - pandas
-  - filterpy
-  - sympy
+  - tqdm
+  - matplotlib
+  - imageio

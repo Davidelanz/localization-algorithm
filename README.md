@@ -5,6 +5,8 @@
 
 ![](./frames.jpg)
 
+![Kalman Plot](kalman_plot.gif "segment")
+
 ---
 
 - [Localization algorithm](#localization-algorithm)
@@ -18,7 +20,7 @@
 
 ---
 
-In this repository, I developed an algorithm to localize a car equipped with wheel encoders and a lobal navigation satellite system (GNSS) receiver. 
+In this repository, I developed a localization algorithm for a car equipped with wheel encoders and a global navigation satellite system (GNSS) receiver. 
 The wheel encoders provide linear and angular speed information, while the GNSS provides position information. 
 
 The following assumptions are made:
